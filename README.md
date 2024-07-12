@@ -4,6 +4,9 @@ Kubernetes has a metrics server that provides CPU and memory usage statistics fo
 
 To monitor CPU and memory usage and log the peak usage of pods, I created this tool.
 
+## Demo
+![demo](./assets/demo.gif)
+
 ## How to install
 - Requirement node 17
 - Clone repo
