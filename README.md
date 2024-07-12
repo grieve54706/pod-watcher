@@ -7,6 +7,12 @@ To monitor CPU and memory usage and log the peak usage of pods, I created this t
 ## Demo
 ![demo](./assets/demo.gif)
 
+You can view the results similar to `kubectl top pod`.
+```bash
+NAME     CPU(cores)     MEMORY(bytes)
+wren     13m            1450Mi
+```
+
 ## How to install
 - Requirement node 17
 - Clone repo
